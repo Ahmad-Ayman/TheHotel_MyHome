@@ -34,9 +34,6 @@ Don't forget an easy way to rent a car to move easily inside the city you travel
 # Note:
 Screenshoots are from the Emulator that's why the Map Fragment is like that, on a device, it will show you the route from your current location to a pre-determined location in my case i set it to my college.
 
-# APK File Download
-You Can Download the APK File from <a href="https://goo.gl/D3J5A7"><b>This Link</b></a>.
-
 # Important Notes
 
 This is my second ever Android Application, this is the result of 3 weeks of working and 3 months of Learning android and 24/7 searching on the internet, I am aware there is a lot to learn yet, but it's just the beginning. Thank you :)
