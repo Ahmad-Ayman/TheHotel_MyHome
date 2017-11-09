@@ -39,7 +39,7 @@ You Can Download the APK File from <a href="https://goo.gl/D3J5A7"><b>This Link<
 
 # Important Notes
 
-This is my second ever Android Application, this is the result of 3 weeks of working and 3 months of Learning android, I am aware there is a lot to learn yet, but it's just the beginning. Thank you :)
+This is my second ever Android Application, this is the result of 3 weeks of working and 3 months of Learning android and 24/7 searching on the internet, I am aware there is a lot to learn yet, but it's just the beginning. Thank you :)
 
 # Contacts
 
