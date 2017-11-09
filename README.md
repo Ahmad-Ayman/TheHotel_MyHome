@@ -4,7 +4,7 @@ Don't forget an easy way to rent a car to move easily inside the city you travel
 # Requirements to run the application
 1 - Device/Emulator with Android 6.0 marshmallow <br>
 2 - GPS Sensor ( For the Map and Directions ) <br>
-3 - Accept and allow all permissions required including ( GPS , Location , Phone calls )
+3 - Accept and allow all permissions required including ( Internet, GPS, Location, Phone calls )
 # Screen Shoots
 <p align="left">
   <img src="https://i.imgur.com/GSibXr6.png" width="250"/>
