@@ -1,7 +1,7 @@
 # The Hotel My Home
 The Hotel My Home, It's about considering the hotel you are in it in another city as your home for this city, you should know all the meals,shows and event in this hotel, also you deserve a soft and easy way to contact the reception of the hotel or sending a feedback or complain to the hotel administration, also a better way for contacting the tourism company and your tour guide.
 Don't forget an easy way to rent a car to move easily inside the city you travelling to.
-# Requirments to run the application
+# Requirements to run the application
 1 - Device/Emulator with Android 6.0 marshmallow <br>
 2 - GPS Sensor ( For the Map and Directions ) <br>
 3 - Accept and allow all permissions required including ( GPS , Location , Phone calls )
