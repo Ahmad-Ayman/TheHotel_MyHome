@@ -1,0 +1,50 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.freelancing.ahmed.fondooy.CityAboutFragment"
+        >
+
+        <!-- TODO: Update blank fragment layout -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:src="@drawable/abouthurgh"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:id="@+id/imgcity"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hurghada"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginTop="40dp"
+                    android:textSize="70sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/purple"
+                    android:id="@+id/tit"/>
+                <TextView
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/aboutHurghada"
+                    android:textSize="28sp"
+                    android:textAlignment="viewStart"
+                    android:layout_marginTop="15dp"
+                    android:gravity="start"
+                    android:id="@+id/desc"
+                    android:textColor="@color/black"/>
+
+            </LinearLayout>
+    </FrameLayout>
+</ScrollView>

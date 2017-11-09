@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Fondooy</string>
+    <string name="welcome">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="user_name">&#160;&#160;User Name</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email"><u><b><i>&#160;&#160;Email</i></b></u></string>
+    <string name="passwords"><u><b><i>&#160;&#160;Password</i></b></u></string>
+    <string name="msg"><u><b><i>&#160;&#160;Enter Message</i></b></u></string>
+    <string name="loginemail"><u><b><i>&#160;&#160;Enter Email</i></b></u></string>
+
+    <string name="subject"><u><b><i>&#160;&#160;Subject</i></b></u></string>
+    <string name="confpasswords"><u><b><i>&#160;&#160;Confirm password</i></b></u></string>
+    <string name="register">Don\'t have an account? Sign up</string>
+    <string name="already_have_an_account_sign_in">Already have an account ? Sign in</string>
+    <string name="name">&#160;&#160;Name</string>
+    <string name="phone">&#160;&#160;Phone</string>
+    <string name="username">&#160;&#160;Username</string>
+    <string-array name="countries">
+
+        <item>Egypt</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Canada</item>
+    </string-array>
+    <string name="title_activity_main2">Main Activityy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="content">Thanks for reaching out.</string>
+    <string name="content2">Our team will be happy to support you.</string>
+    <string name="title_activity_inner">innerActivity</string>
+    <string name="food">Food</string>
+    <string name="shows">Shows</string>
+    <string name="other">Others</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="aboutHurghada">The city was founded in the early 20th century, and until a few years ago it was a small fishing village. But since the 1980s, it has been continually enlarged by Egyptian and foreign investors to become the leading coastal resort on the Red Sea. Holiday villages and hotels provide aquatic sport facilities for windsurfers, kitesurfers, yachtsmen, scuba divers and snorkelers. Hurghada is known for its watersports activities, nightlife and warm weather. Daily temperature hovers round 30 °C (86 °F) most of the year, during July and August temperatures reach over 40 °C (104 °F). Many Europeans have chosen Hurghada for their regular Holidays, specially during the Winter season and spend their Christmas and New Year holidays in the city. Tourism from Russia dropped drastically after the Metrojet Flight 9268 plane crash in November 2015.</string>
+</resources>

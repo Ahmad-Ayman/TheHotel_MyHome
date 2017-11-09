@@ -1,0 +1,184 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.freelancing.ahmed.fondooy.HomeMainFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:background="@drawable/a1"
+            android:alpha="1"
+            android:orientation="vertical"
+            >
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/hoballon"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:alpha="1"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Welcome To"
+                    android:textColor="@color/white"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:alpha="1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The Hotel My Home"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:layout_gravity="center"
+                android:alpha="1"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="' You're going to like us. '"
+                android:textColor="@color/orange"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:alpha="1"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:background="#E8E8E8"
+            android:layout_marginTop="231dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/delivery"
+            android:layout_gravity="center"
+            android:layout_marginLeft="27dp"
+            android:id="@+id/mp"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/foodserv"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:id="@+id/fo"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/renting"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:id="@+id/re"/>
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/onlinehelp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:id="@+id/co"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="300dp"
+            android:background="#E8E8E8">
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="50dp"
+                android:text="Direction"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:layout_marginLeft="23dp"
+                android:id="@+id/mp2"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:text="Meals"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:layout_marginLeft="37dp"
+                android:id="@+id/fo2"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:text="Car Rent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:layout_marginLeft="35dp"
+                android:id="@+id/re2"
+                />
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:text="Contact Hotel"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:layout_marginLeft="38dp"
+                android:id="@+id/co2"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="380dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Welcome !"
+                android:textSize="31sp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Hotel My Home App"
+                android:textSize="23sp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textStyle="italic"
+                android:layout_marginTop="10dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="&#60;Your Comfort Zone in our Country/&#62;"
+                android:textSize="18sp"
+                android:textColor="@color/purple"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                />
+
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:text="Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem Larum Ipusem "
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

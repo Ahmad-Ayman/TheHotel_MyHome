@@ -1,0 +1,156 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/pic103">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:alpha="1"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        tools:context="com.freelancing.ahmed.fondooy.TourismFragment">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rltvmain">
+            <TextView
+                android:id="@+id/login_title2"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text="CONTACT The Company!"
+                android:textColor="#fff"
+                android:textSize="35sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:id="@+id/rltv"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="130dp"
+                android:elevation="4dp"
+                android:orientation="vertical"
+                android:padding="20dp"
+                android:alpha="0.9">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="30dp"
+                    android:id="@+id/lnr">
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/AppTheme">
+
+                        <android.support.design.widget.TextInputEditText
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableTint="@color/white"
+                            android:hint="@string/name"
+                            android:textColor="@color/white"
+                            android:textColorHint="#d67601"
+                            android:inputType="text"
+                            android:maxLines="1"
+                            android:textSize="19sp"
+                            android:textStyle="bold"
+                            android:id="@+id/sendername2"/>
+
+                    </android.support.design.widget.TextInputLayout>
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/AppTheme">
+
+                        <android.support.design.widget.TextInputEditText
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:drawableTint="@color/white"
+                            android:hint="@string/subject"
+                            android:inputType="text"
+                            android:maxLines="1"
+                            android:id="@+id/mailsubject2"
+                            android:textSize="19sp"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            />
+                    </android.support.design.widget.TextInputLayout>
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/AppTheme">
+                        <android.support.design.widget.TextInputEditText
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="16dp"
+                            android:drawableTint="@color/white"
+                            android:hint="@string/msg"
+                            android:lines="8"
+                            android:textSize="19sp"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:id="@+id/etmsg2"
+                            android:gravity="left|top"
+                            android:inputType="textMultiLine"
+                            />
+
+                    </android.support.design.widget.TextInputLayout>
+
+
+                    <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="22dp"
+                        android:background="@drawable/buttonstyle2"
+
+                        android:text="Send Message!"
+                        android:textAllCaps="false"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:id="@+id/sendmsgbtn2" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="OR"
+                        android:textSize="30sp"
+                        android:textColor="@color/white"
+                        android:textStyle="bold"
+                        android:layout_gravity="center"
+                        />
+                    <Button
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="22dp"
+                        android:background="@drawable/buttonstyle2"
+                        android:text="Call Your Tour Guide"
+
+                        android:textAllCaps="false"
+                        android:textColor="#000"
+                        android:textSize="18sp"
+                        android:id="@+id/callbtn2"
+
+                        />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>
